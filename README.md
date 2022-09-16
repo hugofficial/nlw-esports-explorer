@@ -6,7 +6,7 @@
 
 Projeto construído do evento Nex Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://hugofficial.github.oi/nlw-esports-explorer)
+[🔗 Clique aqui para acessar](https://hugofficial.github.io/nlw-esports-explorer)
 
 ## 🛠️ Tecnologias
 
